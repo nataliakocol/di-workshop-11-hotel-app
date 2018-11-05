@@ -1,0 +1,23 @@
+{
+  "name": "di-workshop-11-hotel-app",
+  "version": "1.0.0",
+  "description": "Implementation of hotel app",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliakocol/di-workshop-11-hotel-app.git"
+  },
+  "author": "Natalia Kocol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataliakocol/di-workshop-11-hotel-app/issues"
+  },
+  "homepage": "https://github.com/nataliakocol/di-workshop-11-hotel-app#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
